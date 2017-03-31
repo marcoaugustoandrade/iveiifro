@@ -1,0 +1,77 @@
+*{margin: 0; padding: 0;}
+.menu{
+    background-color: #4ddd6e;
+}
+.menu ul{list-style: none;}
+.menu ul li{
+    /*display: inline; seria usado para colocar o menu na horizontal*/        
+}
+.menu a:link{
+    display: block;
+    padding: 1em 1em 1em 1em;
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;;
+    text-decoration: none;
+}
+.menu a:hover{
+    background-color: #dd534d;
+    color: white;
+    text-decoration: underline;
+}
+.menu a:visited{
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+ul{list-style: none;}
+
+
+
+#palestras{
+    background-color: #4d74dd;
+    padding: 1em 1em 1em 1em;
+}
+
+
+
+
+#oficinas{
+    background-color: #dddd4d;
+    padding: 1em 1em 1em 1em;
+}
+
+
+#competicoes{
+    background-color: #4ddd6e;
+    padding: 1em 1em 1em 1em;
+}
+
+
+#mostra-de-software{
+    background-color: #cc4ddd;
+    padding: 1em 1em 1em 1em;
+}
+
+#inscricao{
+    background-color: #dd534d;
+    padding: 1em 1em 1em 1em;
+}
+
+
+#certificados{
+    background-color: #4d74dd;
+    padding: 1em 1em 1em 1em;
+}
+
+#rodape{
+    background-color: #4ddd6e;
+    padding: 1em 1em 1em 1em;
+}
+
+
